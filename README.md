@@ -4,8 +4,14 @@
 
 Those are my activites (❁´◡`❁)
 
-In backend i have:                      While my frontend ☠☠☠
-SexpressJS                               React
-JWT - Jhonny West Team                   Typescript
-Jest - Not Sex                           NextJS
-Docker                                   Tailwind
+In backend i have:
+SexpressJS+
+JWT - Jhonny West Team
+Jest - Not Sex 
+Docker
+
+While my frontend ☠☠☠:
+React
+Typescript
+NextJS
+Tailwind
