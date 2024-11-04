@@ -4,8 +4,8 @@
 
 Those are my activites (❁´◡`❁)
 
-- Building web apps with REACT and NODEJS.
-- BOT APPS with Python. OpenCV. Django.
-- Cool designs for frontend.
-
-Building protfolio 💤💤💤
+In backend i have:                      While my frontend ☠☠☠
+SexpressJS                               React
+JWT - Jhonny West Team                   Typescript
+Jest - Not Sex                           NextJS
+Docker                                   Tailwind
